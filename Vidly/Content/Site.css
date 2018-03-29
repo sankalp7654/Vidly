@@ -22,3 +22,22 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+table, th, td {
+    border-style: none;
+    border: 1px solid black;
+    width:100%;
+    
+}
+
+th {
+    font-size:x-large;
+}
